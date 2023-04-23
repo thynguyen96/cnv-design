@@ -1,0 +1,192 @@
+.svg-icon {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 0;
+    fill: currentColor;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.svg-icon-size-6 {
+    width: 6px;
+    height: 6px;
+}
+
+.svg-icon-size-8 {
+    width: 8px;
+    height: 8px;
+}
+
+.svg-icon-size-10 {
+    width: 10px;
+    height: 10px;
+}
+
+.svg-icon-size-12 {
+    width: 12px;
+    height: 12px;
+}
+
+.svg-icon-size-14 {
+    width: 14px;
+    height: 14px;
+}
+
+.svg-icon-size-15 {
+    width: 15px;
+    height: 15px;
+}
+
+.svg-icon-size-16 {
+    width: 16px;
+    height: 16px;
+}
+
+.svg-icon-size-17 {
+    width: 17px;
+    height: 17px;
+}
+
+.svg-icon-size-18 {
+    width: 18px;
+    height: 18px;
+}
+
+.svg-icon-size-20 {
+    width: 20px;
+    height: 20px;
+}
+.svg-icon-size-20.over-float {
+    z-index: 1;
+    left: 30px;
+    top: 8px;
+}
+.svg-icon-size-22 {
+    width: 22px;
+    height: 22px;
+}
+.svg-icon-size-23 {
+    width: 23px;
+    height: 23px;
+}
+.svg-icon-size-24 {
+    width: 24px;
+    height: 24px;
+}
+.svg-icon-size-25 {
+    width: 25px;
+    height: 25px;
+}
+.svg-icon-size-26 {
+    width: 26px;
+    height: 26px;
+}
+.svg-icon-size-27 {
+    width: 27px;
+    height: 27px;
+}
+.svg-icon-size-30 {
+    width: 30px;
+    height: 30px;
+}
+.svg-icon-size-34 {
+    width: 34px;
+    height: 34px;
+}
+
+.svg-icon-size-36 {
+    width: 36px;
+    height: 36px;
+}
+
+.svg-icon-size-40 {
+    width: 40px;
+    height: 40px;
+}
+
+.svg-icon-size-48 {
+    width: 48px;
+    height: 48px;
+}
+
+.svg-icon-size-50 {
+    width: 50px;
+    height: 50px;
+}
+
+.svg-icon-size-70 {
+    width: 70px;
+    height: 70px;
+}
+
+.svg-icon-size-80 {
+    width: 80px;
+    height: 80px;
+}
+
+.svg-icon-size-100 {
+    width: 100px;
+    height: 100px;
+}
+
+.svg-icon-size-134 {
+    width: 134px;
+    height: 134px;
+}
+
+.svg-icon-size-200 {
+    width: 200px;
+    height: 200px;
+}
+
+.svg-icon-size-250 {
+    width: 250px;
+    height: 250px;
+}
+
+.svg-icon-size-300 {
+    width: 300px;
+    height: 300px;
+}
+
+.svg-icon-size-380 {
+    width: 380px;
+    height: 380px;
+}
+
+.svg-icon-size-250150 {
+    width: 250px;
+    height: 150px;
+}
+
+.svg-icon-rotate-45 {
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.svg-icon-rotate--45 {
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.svg-icon-rotate-90 {
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.svg-icon-rotate--90 {
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+
+.svg-icon-rotate-180 {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.svg-icon-rotate-270 {
+    -webkit-transform: rotate(270deg);
+    transform: rotate(270deg);
+}

@@ -1,0 +1,57 @@
+div.ql-editor {
+  max-height: inherit;
+  min-height: inherit;
+}
+
+.ql-toolbar {
+  text-align: left;
+}
+
+/* .ql-snow .ql-size .ql-picker-item[data-value="10px"]::before {
+  content: "Small";
+  font-size: 10px !important;
+}
+
+.ql-snow .ql-size .ql-picker-item[data-value="18px"]::before {
+  content: "Large";
+  font-size: 18px !important;
+}
+
+.ql-snow .ql-size .ql-picker-item[data-value="32px"]::before {
+  content: "Huge";
+  font-size: 32px !important;
+}
+
+.ql-snow .ql-picker.ql-size .ql-picker-label[data-value="10px"]::before {
+  content: 'Small';
+}
+
+.ql-snow .ql-picker.ql-size .ql-picker-label[data-value="18px"]::before {
+  content: 'Large';
+}
+
+.ql-snow .ql-picker.ql-size .ql-picker-label[data-value="32px"]::before {
+  content: 'Huge';
+} */
+
+.ql-snow .ql-picker.ql-size .ql-picker-label::before,
+.ql-snow .ql-picker.ql-size .ql-picker-item::before {
+    content: attr(data-value) !important;
+}
+
+.ql-snow .ql-picker.ql-size .ql-picker-label:not([data-value])::before,
+.ql-snow .ql-picker.ql-size .ql-picker-item:not([data-value])::before {
+  content: '14px' !important;
+}
+
+.ql-snow .ql-picker.ql-expanded .ql-picker-options {
+  max-height: 180px;
+  overflow-y: auto;
+}
+
+.ql-clipboard {
+  position: fixed !important;
+  opacity: 0 !important;
+  left: 50% !important;
+  top: 50% !important;
+}
